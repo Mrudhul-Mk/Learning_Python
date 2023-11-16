@@ -1,0 +1,7 @@
+This is my first Line 
+ Hello Developer 
+ Welcome to file handling
+Python is amazing second line 
+ Thanks.
+Python is amazing second line 
+ Thanks.

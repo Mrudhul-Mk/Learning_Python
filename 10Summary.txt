@@ -1,0 +1,26 @@
+1.python is a very simple yet very powerful object oriented programming language
+2.python is named after the comedy television show Monty python's flying circus .
+3.It reads like plain english.
+ ====================================================================================
+ Features:
+ ----------
+ 1. Portability: python can be used on all OS platforms and more.
+ 2. Highly Productivity: Python is a good choice if you want to develop complex multi-protocol network application'
+ 3. Within budget : python development can be the best choice for the business, It is an ideal option for startups because of it's quick development and less coding.
+ 4. Free Availability : Python is free and remains availability at no cost in future. (including expansion set of supporting tools, libraries and modules are free.
+ 5. It can connect with database systems and can read and modify files
+ 6. It support rapid prototyping and production completed software development
+ 7. It is an interpreted language which means the interpreter implements the code line by line at a single time.
+ 8. It can be integrated with languages like C, JAVA, C++, easily
+ 9. It is very easy to learn a language that makes it developer friendly
+ 10. It is a dynamically typed language, this means that the type for a value is decided at runtime, not in advance
+ =============================================================================================
+
+ Python can be used to create a wide variety of application 
+ 1. web development: if you want to create and develop the next big thing in social networking or e-commerce portal, you can use python.
+    python has been used by many powerful applciations such as Pinterest, Quora and Youtube.
+ 2. Data Analysis: One of the main reasons why data analytics using python has become the most preferred and popular mode of data Analysis
+    is that it provides a range of libraries like NumPy, SciPy, Pandas etc.
+ 3. Education : python is good for people who don't know anything about programming and are just started with programming.
+    Python has simple and clear syntax just like english
+    
